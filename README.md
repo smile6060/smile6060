@@ -1,8 +1,6 @@
-<h1 align="center">👋Ye Hee Woo👋</h1>
-<h3 align="center">back-end</h3>
+<h1 align="center">😄Backend Developer 우예희(Ye Hee Woo)😄</h1>
+<h3 align="center"></h3>
 
-
-<p align="left">
 </p>
 
 <h3 align="left">Tech Stack</h3>
